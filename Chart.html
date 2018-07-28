@@ -39,7 +39,7 @@ var svg = d3.select("body").append("svg")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // get the data
-d3.csv("file://C:/Users/NAMAN/Desktop/DVV%20Project/Operator_AvgSpeed.csv", function(error, data) {
+d3.csv("./Operator_AvgSpeed.csv", function(error, data) {
   if (error) throw error;
 
   // format the data
