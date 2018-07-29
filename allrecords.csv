@@ -1,0 +1,226 @@
+﻿servicearea,operator,testtype,avgspeed
+Chennai,CELLONE,upload,542.8
+North East,CELLONE,upload,777
+Assam,CELLONE,download,800
+Bihar,CELLONE,download,812
+Bihar,VODAFONE,upload,1079.33
+Maharashtra,CELLONE,upload,1140.09
+Haryana,CELLONE,upload,1241.5
+North East,CELLONE,download,1291
+UP West,UNINOR,upload,1368
+UP West,CELLONE,upload,1524
+Karnataka,CELLONE,upload,1611.38
+Orissa,CELLONE,upload,1722.92
+Kolkata,CELLONE,upload,1781.5
+West Bengal,CELLONE,upload,1920.72
+UP West,UNINOR,download,1972.38
+Delhi,AIRTEL,upload,2053.28
+Madhya Pradesh,CELLONE,upload,2064.17
+Kerala,JIO,upload,2246.85
+Kolkata,AIRTEL,upload,2327.31
+Andhra Pradesh,CELLONE,upload,2342.6
+Tamil Nadu,CELLONE,upload,2416.36
+Bihar,CELLONE,upload,2463
+UP East,CELLONE,upload,2508.5
+Chennai,AIRTEL,upload,2634.3
+Kerala,CELLONE,upload,2682.11
+Chennai,JIO,upload,2718.89
+North East,AIRTEL,upload,2734.87
+Delhi,JIO,upload,2740.23
+West Bengal,AIRTEL,upload,2820.47
+Gujarat,CELLONE,upload,2836.33
+Jammu & Kashmir,AIRTEL,upload,2855.5
+Karnataka,AIRTEL,upload,2901.71
+Gujarat,AIRTEL,upload,2925.91
+Bihar,VODAFONE,download,2938.5
+Haryana,JIO,upload,3036.85
+Kerala,AIRTEL,upload,3038.25
+Assam,JIO,upload,3076.79
+Karnataka,IDEA,upload,3125.18
+Mumbai,VODAFONE,upload,3166.54
+Mumbai,AIRTEL,upload,3210.58
+Himachal Pradesh,CELLONE,download,3265.5
+North East,JIO,upload,3269.02
+Andhra Pradesh,IDEA,upload,3291.05
+Gujarat,JIO,upload,3292.8
+UP East,IDEA,upload,3347.41
+Tamil Nadu,JIO,upload,3370.58
+Maharashtra,JIO,upload,3399.85
+Tamil Nadu,AIRTEL,upload,3438.05
+West Bengal,JIO,upload,3443.9
+Madhya Pradesh,CELLONE,download,3453.33
+Assam,AIRTEL,upload,3471.14
+Gujarat,CELLONE,download,3557.67
+Rajasthan,IDEA,upload,3593.13
+Karnataka,JIO,upload,3596.99
+North East,VODAFONE,download,3600.6
+Bihar,AIRTEL,upload,3602.39
+Madhya Pradesh,VODAFONE,upload,3621
+Andhra Pradesh,JIO,upload,3626.28
+Maharashtra,AIRTEL,upload,3665.72
+UP East,AIRTEL,upload,3743.21
+Rajasthan,CELLONE,upload,3765.08
+UP West,VODAFONE,download,3811.88
+UP East,VODAFONE,upload,3835.41
+Mumbai,JIO,upload,3888.34
+Kolkata,JIO,upload,3927.5
+UP West,VODAFONE,upload,3947.45
+UP East,IDEA,download,3953.23
+Maharashtra,VODAFONE,upload,3975.91
+Delhi,IDEA,upload,4008.3
+Jammu & Kashmir,CELLONE,download,4103.5
+Andhra Pradesh,VODAFONE,upload,4104.48
+Punjab,AIRTEL,upload,4116.34
+Haryana,AIRTEL,upload,4123
+Andhra Pradesh,IDEA,download,4159.2
+Himachal Pradesh,AIRTEL,upload,4198.27
+Himachal Pradesh,CELLONE,upload,4252.5
+UP West,AIRTEL,upload,4272.84
+UP East,VODAFONE,download,4289.64
+UP East,AIRTEL,download,4428.65
+Andhra Pradesh,UNINOR,upload,4611.36
+Karnataka,VODAFONE,upload,4639.17
+North East,JIO,download,4657.38
+Rajasthan,VODAFONE,upload,4665.35
+UP West,JIO,upload,4718.95
+Karnataka,IDEA,download,4751.33
+Orissa,VODAFONE,upload,4760.9
+Himachal Pradesh,IDEA,download,4796.45
+Punjab,VODAFONE,upload,4803.87
+Bihar,IDEA,upload,4811.44
+UP East,JIO,upload,4850.41
+Andhra Pradesh,AIRTEL,upload,4879.54
+Mumbai,IDEA,upload,4916.03
+Orissa,IDEA,upload,4922.41
+UP West,CELLONE,download,4923
+Assam,CELLONE,upload,4981
+Maharashtra,CELLONE,download,4985.35
+Jammu & Kashmir,IDEA,upload,5012.69
+Orissa,JIO,upload,5092.14
+Jammu & Kashmir,JIO,upload,5118.68
+Himachal Pradesh,IDEA,upload,5179.67
+Haryana,VODAFONE,upload,5203.51
+Delhi,IDEA,download,5214.06
+Orissa,AIRTEL,upload,5214.63
+Rajasthan,VODAFONE,download,5269.18
+Chennai,CELLONE,download,5285.6
+Assam,JIO,download,5289.24
+UP West,AIRTEL,download,5323.32
+Rajasthan,AIRTEL,upload,5352.08
+Karnataka,VODAFONE,download,5367.06
+Punjab,VODAFONE,download,5370.24
+Bihar,JIO,upload,5386.95
+Rajasthan,JIO,upload,5427.7
+Kerala,IDEA,upload,5435.68
+West Bengal,CELLONE,download,5446.39
+Assam,VODAFONE,download,5475.9
+Andhra Pradesh,VODAFONE,download,5502.67
+Mumbai,IDEA,download,5514.88
+Delhi,VODAFONE,upload,5539.3
+Rajasthan,IDEA,download,5778.14
+Madhya Pradesh,JIO,upload,5828.97
+West Bengal,IDEA,upload,5832.5
+Punjab,JIO,upload,5852.44
+Kerala,VODAFONE,upload,5866.31
+UP East,CELLONE,download,5903
+Chennai,IDEA,upload,5925.37
+Tamil Nadu,IDEA,upload,5927.9
+Orissa,VODAFONE,download,6018.87
+Jammu & Kashmir,IDEA,download,6059.39
+North East,IDEA,upload,6105.73
+North East,AIRTEL,download,6153.06
+North East,VODAFONE,upload,6168.48
+Andhra Pradesh,UNINOR,download,6172.55
+Himachal Pradesh,JIO,upload,6238.48
+Gujarat,AIRTEL,download,6346.16
+West Bengal,VODAFONE,upload,6367.71
+Bihar,AIRTEL,download,6448.97
+Kerala,CELLONE,download,6488.43
+Maharashtra,IDEA,upload,6533.9
+Gujarat,VODAFONE,upload,6658.51
+Maharashtra,IDEA,download,6685.61
+Tamil Nadu,VODAFONE,upload,6754.7
+Orissa,CELLONE,download,6767.67
+Rajasthan,CELLONE,download,6772.75
+West Bengal,AIRTEL,download,6836.22
+Orissa,IDEA,download,6865.06
+Punjab,IDEA,download,6899.61
+Kerala,IDEA,download,6928.76
+Madhya Pradesh,AIRTEL,upload,6931.84
+Haryana,VODAFONE,download,6996.71
+Mumbai,VODAFONE,download,7090.17
+Madhya Pradesh,IDEA,upload,7180.22
+Bihar,IDEA,download,7197.69
+Chennai,IDEA,download,7360.68
+Karnataka,CELLONE,download,7412.85
+Chennai,JIO,download,7455.11
+Madhya Pradesh,IDEA,download,7541.4
+West Bengal,VODAFONE,download,7728.33
+North East,IDEA,download,7804.29
+UP West,IDEA,download,7842.67
+Punjab,CELLONE,upload,7851.29
+Mumbai,JIO,download,7888.63
+Kolkata,VODAFONE,upload,7907.01
+Assam,IDEA,upload,7909.19
+Kerala,JIO,download,7939.68
+Maharashtra,VODAFONE,download,7951.05
+UP West,IDEA,upload,8029.07
+Kerala,VODAFONE,download,8064.03
+Chennai,VODAFONE,upload,8142.46
+Delhi,VODAFONE,download,8144.55
+Haryana,JIO,download,8208.19
+Assam,VODAFONE,upload,8211.99
+Delhi,JIO,download,8315.37
+Kolkata,JIO,download,8316.38
+Punjab,IDEA,upload,8345.95
+Kolkata,IDEA,download,8436
+Jammu & Kashmir,CELLONE,upload,8493
+Chennai,AIRTEL,download,8553.74
+Karnataka,AIRTEL,download,8570.38
+Tamil Nadu,VODAFONE,download,8733.34
+Tamil Nadu,CELLONE,download,8768.71
+Jammu & Kashmir,JIO,download,8860.41
+Haryana,IDEA,download,8887.1
+Tamil Nadu,AIRTEL,download,8985.25
+Andhra Pradesh,CELLONE,download,9106.5
+Kolkata,AIRTEL,download,9222.94
+Gujarat,VODAFONE,download,9277.88
+Haryana,IDEA,upload,9298.1
+Rajasthan,AIRTEL,download,9499.52
+Tamil Nadu,IDEA,download,9530.12
+Maharashtra,AIRTEL,download,9554.65
+Kerala,AIRTEL,download,9991.02
+Gujarat,IDEA,upload,10012.06
+Punjab,CELLONE,download,10156.29
+Haryana,CELLONE,download,10257.5
+Kolkata,VODAFONE,download,10313.28
+Himachal Pradesh,AIRTEL,download,10575.83
+Assam,AIRTEL,download,10931.79
+Jammu & Kashmir,AIRTEL,download,11162.66
+Mumbai,AIRTEL,download,11187.39
+Gujarat,IDEA,download,11204.91
+Chennai,VODAFONE,download,11266.34
+Andhra Pradesh,AIRTEL,download,11480.21
+Madhya Pradesh,VODAFONE,download,11646.33
+Punjab,AIRTEL,download,11821.01
+Delhi,AIRTEL,download,11913.47
+West Bengal,IDEA,download,12513.99
+Madhya Pradesh,AIRTEL,download,12737.55
+Tamil Nadu,JIO,download,12773.49
+Orissa,AIRTEL,download,12835.98
+Haryana,AIRTEL,download,12953.72
+Kolkata,CELLONE,download,13524
+Gujarat,JIO,download,13979.12
+West Bengal,JIO,download,14440.21
+Maharashtra,JIO,download,14683.82
+UP East,JIO,download,15280.92
+Assam,IDEA,download,15811.49
+Karnataka,JIO,download,16562.38
+Andhra Pradesh,JIO,download,17188.72
+Punjab,JIO,download,18393.59
+Rajasthan,JIO,download,18644.28
+UP West,JIO,download,19756.22
+Himachal Pradesh,JIO,download,20625.26
+Orissa,JIO,download,20892.79
+Madhya Pradesh,JIO,download,26144.76
+Bihar,JIO,download,31542.4
