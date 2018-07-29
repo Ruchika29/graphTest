@@ -35,11 +35,11 @@ var svg = d3.select("body").append("svg")
     .attr("height", height + margin.top + margin.bottom)
 	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
+var filterBandwidth = 'download';
 d3.csv("./allrecords2.csv", function(error, data){
 
 	// filter year
-	var data = data.filter(function(d){return d.TestType == 'download';});
+	var data = data.filter(function(d){return d.TestType == filterBandwidth;});
 	// Get every column value
 	var elements = Object.keys(data[0])
 		.filter(function(d){
