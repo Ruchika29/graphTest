@@ -39,7 +39,7 @@ var filterBandwidth = 'download';
 d3.csv("./allrecords2.csv", function(error, data){
 console.log(data);
 	// filter year
-	var data = data.filter(function(d){return d.TestType == filterBandwidth;});
+	var data = data.filter(function(d){return d.TestType == 'download';});
 	// Get every column value
 	var elements = Object.keys(data[0])
 		.filter(function(d){
